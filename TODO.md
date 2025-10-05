@@ -31,3 +31,10 @@ https://www.reddit.com/r/ansible/comments/1h5xac9/is_there_a_way_to_use_a_variab
 - thunderbird
 - git
 - sentinelOne
+
+## Grafische Tools
+ansible semaphore
+https://semaphoreui.com
+
+## vergleich
+https://spacelift.io/blog/ansible-tower-automation-controller-alternatives
