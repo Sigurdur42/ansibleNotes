@@ -5,7 +5,7 @@
 Dabei prüfen ob das schon da ist und ggf. aktualisieren.
 
 
-## Lose Notes
+## Loose Notes
 role Verzeichnisstruktur erzeugen:
 `ansible-galaxy role init role_name`
 
