@@ -5,7 +5,7 @@
 Dabei prüfen ob das schon da ist und ggf. aktualisieren.
 
 
-## Lose Notes
+## Loose Notes
 role Verzeichnisstruktur erzeugen:
 `ansible-galaxy role init role_name`
 
@@ -37,4 +37,11 @@ https://www.reddit.com/r/ansible/comments/1h5xac9/is_there_a_way_to_use_a_variab
 
 Nur bei GNOME:
     - gnome tweaks
+
+## Grafische Tools
+ansible semaphore
+https://semaphoreui.com
+
+## vergleich
+https://spacelift.io/blog/ansible-tower-automation-controller-alternatives    
     
