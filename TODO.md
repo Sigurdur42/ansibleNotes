@@ -34,6 +34,9 @@ https://www.reddit.com/r/ansible/comments/1h5xac9/is_there_a_way_to_use_a_variab
 
 - Zertifikat installieren
 
+- Aus localem Ordner ein binary repo machen
+    - das auch per rsync aus einer Quelle erstmal lokal ablegen.
+
 
 Nur bei GNOME:
     - gnome tweaks
