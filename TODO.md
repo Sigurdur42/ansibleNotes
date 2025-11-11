@@ -45,4 +45,4 @@ https://semaphoreui.com
 ## vergleich
 https://spacelift.io/blog/ansible-tower-automation-controller-alternatives    
 
-Insert Mergekonflikt here
+Insert Mergekonflikt 2 here
